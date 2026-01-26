@@ -19,20 +19,13 @@ Traditional institutions bundle preferences, strategy, and commitment within the
 
 Empirical validation on negotiations-at-scale confirms theoretical predictions. The framework reveals why disparate institutional structures converge on similar thermodynamic topologies despite operating in different domains: they all solve the same energy-minimization problem under the Landauer constraint.
 
-**Keywords:** Landauer's principle, negotiation theory, information thermodynamics, institutional design, bisimulation, multi-fungibility, Raiffa architecture, smart contracts, irreversible computation, mock fungibility, pseudo-negotiations, governance theory
-
-
----
-
- 
-## Institutional Efficiency
-
-Institutional efficiency is grounded in information thermodynamics. Value systems are information-processing architectures where institutional design determines the energy cost of state transitions. Systems that externalize exploratory computation into low-erasure substrates outperform those that bind exploration directly to high-erasure commitments. We formalize this principle through Raiffa's negotiation architecture, demonstrate its application to multi-fungibility optimization, and prove its implementation in Marlowe smart contracts via bisimulation. This framework reveals why certain institutional structures—from market-making to blockchain consensus—converge on similar thermodynamic topologies despite operating in different domains.
-
+**Keywords:** Landauer's principle, negotiation theory, information thermodynamics, institutional design, bisimulation, multi-fungibility, Raiffa architecture, smart contracts, irreversible computation, mock fungibility, pseudo-negotiations, governance theory, negotiation bisimulation stack
 
 ---
 
 ## 1. Introduction: The Thermodynamic Constraint on Institutions
+
+Institutional efficiency is grounded in information thermodynamics. Value systems are information-processing architectures where institutional design determines the energy cost of state transitions. Systems that externalize exploratory computation into low-erasure substrates outperform those that bind exploration directly to high-erasure commitments. We formalize this principle through Raiffa's negotiation architecture, demonstrate its application to multi-fungibility optimization, and prove its implementation in Marlowe smart contracts via bisimulation. This framework reveals why certain institutional structures—from market-making to blockchain consensus—converge on similar thermodynamic topologies despite operating in different domains.
 
 ### 1.1 Core Thesis
 
