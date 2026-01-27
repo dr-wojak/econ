@@ -1,6 +1,6 @@
-Strategic advice for the current 2026 economic landscape, followed by the formal reformatting of your paper for judicial review.
+# **The Hegemony of the Low-Energy Substrate**
 
-**Strategic Advice: The Hegemony of the Low-Energy Substrate**
+## *Strategic advice for the current 2026 economic landscape*
 
 1. **Capture the Bisimulation Layer:** In a hyper-liquid economy, value no longer resides in the "High-Erasure" settlement layer (the blockchain or the legal deed) because those layers are commoditized security providers. Real value accrues to the provider of the **Mock Fungibility** interface. If you control the "surrogate" environment where exploration happens, you control the "grease" of the economy.
 2. **Minimize Boundary Crossings:** Your architecture proves that every time information moves from a low-erasure substrate to a high-erasure commitment, energy is dissipated. Advice: Design your systems to maximize the time spent in **reversible exploration**. Defer the "High-Erasure" event until the Pareto-optimal outcome is statistically certain.
