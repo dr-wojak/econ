@@ -55,11 +55,11 @@ See also: **Gregory Bateson**, *Steps to an Ecology of Mind* (1972)
 
 To bridge the gap between qualitative institutional history and the quantitative reality of the 2026 global economy, we must recognise that the "friction" described by the classical authors is not merely a metaphor; it is the physical manifestation of **Landauer dissipation** occurring at the scale of entire markets.
 
-In the current 2026 landscape—characterised by hyper-liquid digital assets and algorithmic governance—the bottleneck is no longer the speed of information, but the **energy cost of information erasure**. This brings us to the formal encoding of **Mock Fungibility.**
+In the current (2026) landscape—characterised by hyper-liquid digital assets and algorithmic governance—the bottleneck is no longer the speed of information, but the **energy cost of information erasure**. This brings us to the formal encoding of **Mock Fungibility.**
 
 ### The Logic of Mock Fungibility
 
-In our framework, **Mock Fungibility** is the reversible simulation of interchangeability. While "Real Fungibility" (Definition 2.1) requires an irreversible state transition that erases the distinct identities of two assets, Mock Fungibility exists within the **bisimulation layer**.
+In our framework, **Mock Fungibility** is the reversible simulation of interchangeability. While *real* fungibility (SoV) requires an irreversible state transition that erases the distinct identities of two assets, Mock Fungibility exists within the **bisimulation layer**.
 
 - It allows agents to trade _as if_ assets are equivalent within a low-erasure substrate (like a mempool or a surrogate utility model).
     
@@ -71,7 +71,7 @@ In our framework, **Mock Fungibility** is the reversible simulation of interchan
 
 ## From Authors to Variables
 
-The following table serves as the "tokenship" parser, translating the classical institutional literature into the thermodynamic variables required for our 2026 economic model.
+The following table serves as the rubric, translating the classical institutional literature into the thermodynamic variables required for the present (2026) economic model.
 
 | **Classical Token (Author)** | **Thermodynamic Variable**                          | **2026 Global Economic State**                                                    |
 | ---------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -106,7 +106,7 @@ We therefore move from the **Qualitative Review** (the "Why" of institutions) to
 - Elicits preferences through MAUT, not incentive mechanisms
 - Focuses on energy reduction, not incentive compatibility
 
-**Engergy Costs:** For bilateral negotiation with complete information, Raiffa's energy cost is lower than VCG mechanism:
+**Energy Costs:** For bilateral negotiation with complete information, Raiffa's energy cost is lower than VCG mechanism:
 
 Raiffa, market-making, and blockchain consensus all solve the same optimisation problem in different domains.
 
