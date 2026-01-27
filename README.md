@@ -87,7 +87,7 @@ The 2026 economy is essentially a high-temperature information processor. As the
 
 We therefore move from the **Qualitative Review** (the "Why" of institutions) to the **Thermodynamic Proof** (the "How" of their physical survival). The following section uses the variables defined above to prove that a system utilizing **Mock Fungibility** (Raiffa's "surrogate" layer) creates a Pareto improvement by reducing the total $\Delta E$ of the global settlement layer.
 
-[Additional Notes[(https://github.com/dr-wojak/econ/blob/main/doctrine.md)
+[Additional Notes on Thermodynamic Institutional Design](https://github.com/dr-wojak/econ/blob/main/doctrine.md)
 
 ## **Relationship to Existing Theories**
 
