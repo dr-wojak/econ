@@ -66,4 +66,7 @@ Live GitHub Render (Markdown):
 
 Institutional efficiency is grounded in information thermodynamics. Value systems are information-processing architectures where institutional design determines the energy cost of state transitions. Systems that externalize exploratory computation into low-erasure substrates outperform those that bind exploration directly to high-erasure commitments. This principle can be formalised through Raiffa's negotiation architecture, demonstrate its application to multi-fungibility optimization, and prove its implementation in Marlowe smart contracts via bisimulation. This framework reveals why certain institutional structures—from market-making to blockchain consensus—converge on similar thermodynamic topologies despite operating in different domains.
 
+**Howard Raiffa's Architecture**
+[Mock Pseudo-Negotiations With Surrogate Disputants](https://github.com/dr-wojak/econ/blob/main/Mock%20Pseudo-Negotiations%20With%20Surrogate%20Disputants%20-%20Raiffa.pdf)
+
 
