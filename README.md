@@ -10,10 +10,10 @@ I present a unified theory of institutional efficiency grounded in information t
 **Keywords:** Landauer's principle, negotiation theory, information thermodynamics, institutional design, bisimulation, multi-fungibility, Raiffa architecture, smart contracts, irreversible computation, mock fungibility, pseudo-negotiations, governance theory
 
 PDF:
-[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-constraint.pdf)
+[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-thesis-multi-fungibility.pdf)
 
 Live GitHub Render (Markdown):
-[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-thesis-multi-fungibility.md)
+[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-constraint.md)
 
 
 ## Institutional Efficiency
