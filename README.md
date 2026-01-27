@@ -1,6 +1,6 @@
 # Economics Research Repository
 
-*Risk, Fungibility, and Irreversible Computation*
+## *Risk, Fungibility, and Irreversible Computation*
 
 This repository of research attempts to build on the classical foundations of institutional economics through the diligent deployment of solution solvers taken from the realm of smart-contracts, O.R., decision science, and AI. It's a study of energy optimisation in social architectures; progress through an existing order that is ludic and reckless.
 
