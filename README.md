@@ -54,7 +54,7 @@ See: **Gregory Bateson**, *Steps to an Ecology of Mind* (1972)
 
 To bridge the gap between qualitative institutional history and the quantitative reality of the 2026 global economy, we must recognise that the "friction" described by the classical authors is not merely a metaphor; it is the physical manifestation of **Landauer dissipation** occurring at the scale of entire markets.
 
-In the current 2026 landscape—characterised by hyper-liquid digital assets and algorithmic governance—the bottleneck is no longer the speed of information, but the **energy cost of information erasure**. This brings us to the formal encoding of **"Mock Fungibility."**
+In the current 2026 landscape—characterised by hyper-liquid digital assets and algorithmic governance—the bottleneck is no longer the speed of information, but the **energy cost of information erasure**. This brings us to the formal encoding of **Mock Fungibility.**
 
 ### The Logic of Mock Fungibility
 
