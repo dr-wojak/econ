@@ -33,6 +33,11 @@ Finally, **Albert Hirschman** defined the fundamental transition vectors availab
 * **Voice**: An exploratory, low-erasure computation (attempting to change the state).
 * **Loyalty**: The "hysteresis" or resistance to state change.
 
+See: Gregory Bateson, "Steps to an Ecology of Mind" (1972)
+
+#industrialdesign
+#ecologicalgovernance
+
 ---
 
 ### Summary of Theoretical Synthesis
@@ -82,6 +87,8 @@ The 2026 economy is essentially a high-temperature information processor. As the
 
 We therefore move from the **Qualitative Review** (the "Why" of institutions) to the **Thermodynamic Proof** (the "How" of their physical survival). The following section uses the variables defined above to prove that a system utilizing **Mock Fungibility** (Raiffa's "surrogate" layer) creates a Pareto improvement by reducing the total $\Delta E$ of the global settlement layer.
 
+[Additional Notes[(https://github.com/dr-wojak/econ/blob/main/doctrine.md)
+
 ## **Relationship to Existing Theories**
 
 *Connection to Mechanism Design*
@@ -98,7 +105,7 @@ We therefore move from the **Qualitative Review** (the "Why" of institutions) to
 - Elicits preferences through MAUT, not incentive mechanisms
 - Focuses on energy reduction, not incentive compatibility
 
-**Theorem F.1:** For bilateral negotiation with complete information, Raiffa's energy cost is lower than VCG mechanism:
+**Engergy Costs:** For bilateral negotiation with complete information, Raiffa's energy cost is lower than VCG mechanism:
 
 Raiffa, market-making, and blockchain consensus all solve the same optimisation problem in different domains.
 
@@ -116,7 +123,7 @@ where k_market is a market efficiency constant. (Theorem Market 1)
 
 **Proof:** Extractable value derives from energy reduction provided. In competitive markets, surplus is competed away to marginal cost. Therefore V_i ≤ energy saved. □
 
-**Corollary 7.1:** Monopolistic rent extraction violates thermodynamic fairness:
+**Corollary:** Monopolistic rent extraction violates thermodynamic fairness:
 
 $$\text{If } V_i > \Delta E_{\text{saved}}, \text{ then extraction is rent-seeking}$$
 
