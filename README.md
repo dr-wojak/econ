@@ -13,7 +13,7 @@ PDF:
 [The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-constraint.pdf)
 
 Live GitHub Render (Markdown):
-[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-constraint.md)
+[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-thesis-multi-fungibility.md)
 
 
 ## Institutional Efficiency
