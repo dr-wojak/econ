@@ -1,5 +1,8 @@
+
 # Economics Research Repository
 *Risk, Fungibility, and Irreversible Computation* 
+
+![2nd Order Signal](https://github.com/dr-wojak/econ/blob/main/second-order-interpretation-of-misgovernance.png)
 
 ## **Landauer Thesis**
 
