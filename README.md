@@ -33,8 +33,9 @@ Finally, **Albert Hirschman** defined the fundamental transition vectors availab
 * **Voice**: An exploratory, low-erasure computation (attempting to change the state).
 * **Loyalty**: The "hysteresis" or resistance to state change.
 
-See: **Gregory Bateson**, *Steps to an Ecology of Mind* (1972)
+See also: **Gregory Bateson**, *Steps to an Ecology of Mind* (1972)
 
+#doublebind
 #industrialdesign
 #ecologicalgovernance
 
