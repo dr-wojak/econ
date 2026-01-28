@@ -94,7 +94,7 @@ The framework establishes that every institutional action — recording a transa
 
 ## Document
 
-See [cryptophilology-ricardian-contracts.md](cryptophilology-ricardian-contracts.md) for the complete analysis.
+See [Ricardian Contracts: A Thermodynamic Analysis](cryptophilology-ricardian-contracts.md) for the complete analysis.
 
 ---
 
