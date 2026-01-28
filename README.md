@@ -97,7 +97,7 @@ The framework establishes that every institutional action — recording a transa
 See [Ricardian Contracts: A Thermodynamic Analysis](cryptophilology-ricardian-contracts.md) for the complete analysis.
 
 ---
-## **"The Ontology of Surrogate Systems"**
+## **The Ontology of Surrogate Systems**
 
 ### *decision theory, economics, and governance*
 
