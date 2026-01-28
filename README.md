@@ -69,6 +69,34 @@ In our framework, **Mock Fungibility** is the reversible simulation of interchan
 - In the 2026 economy, Mock Fungibility is the "grease" in automated market-makers (AMMs), allowing for "pseudo-negotiations" between fragmented liquidity pools without triggering the massive $\Delta E$ of a blockchain's final commitment layer.
 
 ---
+# Cryptophilology: Ricardian Contracts
+
+A thermodynamic analysis of institutional substrates and financial contracts.
+
+## Overview
+
+This repository develops **cryptophilology** — a rigorous framework for analyzing information-processing institutions through the lens of Landauer's principle. By treating all institutional operations as thermodynamically-bounded computations, we derive substrate-independent metrics for comparing different implementations of the same institutional semantics.
+
+## Key Contributions
+
+- **Thermodynamic foundations** for institutional analysis grounded in the Landauer bound (minimum energy dissipation per bit erasure)
+- **Bisimulation theory** for proving behavioral equivalence across different substrates (paper, databases, blockchains, etc.)
+- **Quantitative energy accounting** for financial primitives including Ricardian contracts, order matching, and cryptographic operations
+- **Optimization framework** for institutional migration that preserves semantics while minimizing energy cost
+
+## Core Concepts
+
+The framework establishes that every institutional action — recording a transaction, verifying a signature, executing a contract clause — is fundamentally an information-processing operation subject to the second law of thermodynamics. This enables:
+
+1. Formal comparison of institutions implemented on vastly different substrates (e.g., paper ledgers vs. distributed ledgers)
+2. Provably correct substrate migrations that preserve institutional semantics
+3. Quantitative analysis of the energy efficiency of financial system designs
+
+## Document
+
+See [cryptophilology-ricardian-contracts.md](cryptophilology-ricardian-contracts.md) for the complete analysis.
+
+---
 
 ## From Authors to Variables
 
