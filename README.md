@@ -97,6 +97,25 @@ The framework establishes that every institutional action — recording a transa
 See [Ricardian Contracts: A Thermodynamic Analysis](cryptophilology-ricardian-contracts.md) for the complete analysis.
 
 ---
+## **"The Ontology of Surrogate Systems"**
+
+### *decision theory, economics, and governance*
+
+**Core frameworks** - Raiffa, FORM/h, Marlowe, Ricardian contracts
+
+This section provides a philosophical grounding for *why* the thermodynamic analysis isn't just useful: it reveals something fundamental about what institutions actually *are*.
+
+Mock Pseudo-Negotiations with Surrogate Disputants aren't approximations but **real negotiations in an alternative substrate**, which is exactly the canonical insight.
+
+**To address the boundary conditions:**
+
+Zero Fungibility (Dimension 18): where substrate matters absolutely
+Abessive (Dimension 31): value in the gap itself
+
+See FORM/h here: [FORM/hodós](https://github.com/dr-wojak/econ/blob/main/FORM_hodo%CC%81s%20v1.37.pdf)
+
+See also: [The Ontology of Surrogate Systems](https://github.com/dr-wojak/econ/blob/main/ontology.md)
+---
 
 ## From Institutional Theory to Thermodynamic Formalism
 
