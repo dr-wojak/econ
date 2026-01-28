@@ -1,10 +1,46 @@
-# A Thermodynamic Theory of Institutional Substrate
-
+# Ricardian Contracts: A Thermodynamic Analysis
 ## Abstract
 
 Cryptophilology establishes a rigorous framework for reasoning about information-processing institutions through the lens of Landauer's principle. By treating all institutional operations as thermodynamically-bounded computations, we derive substrate-independent metrics for comparing different implementations of the same institutional semantics. This enables formal optimization of institutional design while preserving behavioral equivalence (bisimulation).
 
+## Overview
+
+## 1. The Thermodynamic Cost of Ricardian Verification
+
+In the verification of a Ricardian Contract ($C$), the ratio of irreversible energy dissipation to reversible energy usage is governed by the total operation count.
+
+The efficiency ratio is defined as:
+
+$$\frac{E^{\text{irrev}}}{E^{\text{rev}}} \approx \frac{n_{\mathrm{total\_ops}}}{n_{\mathrm{outputs}}}$$
+
+Where $n_{\mathrm{total\_ops}}$ represents the sum of all logical gates processed during the validation of the contract's cryptographic signature and the parsing of its legal prose.
+
+## 2. Evaluation Energy and AST Depth
+
+The energy required to evaluate a contract $C$ under a state $\sigma$ is proportional to the depth of its Abstract Syntax Tree (AST). This is expressed by the following identity:
+
+$$E_{\text{eval}}(C, \sigma) = k_B T \ln 2 \cdot k_{\sigma} \cdot \mathrm{AST\_depth}(C) \cdot \beta$$
+
+In this context:
+- $k_B T \ln 2$ is the Landauer limit.
+- $k_{\sigma}$ is the state-complexity coefficient.
+- $\mathrm{AST\_depth}(C)$ is the maximum nesting level of the contract's logical conditions.
+- $\beta$ is the hardware-specific dissipation factor.
+
+## 3. Ricardian Entropy and Overhead
+
+To quantify the information-theoretic security of the contract, we consider the entropy $H(R)$ of the Ricardian manifest, including the verification overhead:
+
+$$H(R) = -\sum P(c_i) \log_2 P(c_i) + \mathrm{verification\_overhead}$$
+
+
+## 4. Conclusion
+
+The cryptographic integrity of a Ricardian Contract is not merely a legal abstraction but a physical one, bounded by the laws of thermodynamics. This leads to a General Thermodynamic Theory of Institutional Substrate.
+
 ---
+
+# A Thermodynamic Theory of Institutional Substrate
 
 ## Part I: Foundations
 
