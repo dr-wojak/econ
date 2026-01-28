@@ -98,8 +98,6 @@ See [Ricardian Contracts: A Thermodynamic Analysis](cryptophilology-ricardian-co
 
 ---
 
----
-
 ## From Institutional Theory to Thermodynamic Formalism
 
 ### The Translation Layer: Authors to Variables
