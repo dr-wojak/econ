@@ -60,7 +60,7 @@ In the current 2026 landscape—characterized by hyper-liquid digital assets and
 
 ### The Logic of Mock Fungibility
 
-In our framework, **Mock Fungibility** is the reversible simulation of interchangeability. While "Real Fungibility" (Definition 2.1) requires an irreversible state transition that erases the distinct identities of two assets, Mock Fungibility exists within the **bisimulation layer**.
+In our framework, **Mock Fungibility** is the reversible simulation of interchangeability. While "Real Fungibility" requires an irreversible state transition that erases the distinct identities of two assets, Mock Fungibility exists within the **bisimulation layer**.
 
 - It allows agents to trade _as if_ assets are equivalent within a low-erasure substrate (like a mempool or a surrogate utility model).
     
