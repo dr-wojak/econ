@@ -124,7 +124,7 @@ $$\Delta E = \nu T \sum_{\text{ops}} b_{\text{op}} k_B T_{\text{amb}} \ln 2 \cdo
 
 **Theorem 5.1 (Contract Energy Cost):** The energy to evaluate contract $C$ in substrate $\sigma$ is:
 
-$$E_{\text{eval}}(C, \sigma) = k_B T \ln 2 \cdot k_{\sigma} \cdot \text{AST\_depth}(C) \cdot \beta$$
+$$E_{\text{eval}}(C, \sigma) = k_B T \ln 2 \cdot k_{\sigma} \cdot \mathrm{AST\_depth}(C) \cdot \beta$$
 
 where $\beta$ is the average bit operations per AST node.
 
@@ -301,7 +301,7 @@ where only output bit erasure (externalization) dissipates energy.
 
 **Corollary 11.1:** For institutions with sparse output relative to computation (e.g., audit systems that verify but rarely report), reversible computing offers exponential energy reduction:
 
-$$\frac{E^{\text{irrev}}}{E^{\text{rev}}} \approx \frac{n_{\text{total\_ops}}}{n_{\text{outputs}}}$$
+$$\frac{E^{\text{irrev}}}{E^{\text{rev}}} \approx \frac{n_{\text{total ops}}}{n_{\text{outputs}}}$$
 
 **Open Problem 11.1:** Design practically reversible audit protocols for financial clearing systems.
 
