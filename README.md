@@ -113,6 +113,7 @@ Zero Fungibility (Dimension 18): where substrate matters absolutely
 Abessive (Dimension 31): value in the gap itself
 
 See FORM/h here: [FORM/hodós](https://github.com/dr-wojak/econ/blob/main/FORM_hodo%CC%81s%20v1.37.pdf)
+
 See also: [The Ontology of Surrogate Systems](https://github.com/dr-wojak/econ/blob/main/ontology.md)
 
 ---
