@@ -309,7 +309,7 @@ The formal proofs utilize the bisimulation framework developed in Part II to sho
 I have presented a unified thermodynamic theory of institutional design with four main results:
 
 1. **Multi-fungibility is entropy minimization** under transitivity constraints (§2)
-2. **Raiffa's architecture achieves provable energy reduction** through preference externalization (§3)
+2. **Raiffa's method achieves provable energy reduction** through preference externalization (§3)
 3. **Bisimulation formalizes why surrogates work** at lower cost than principals (§4)
 4. **Marlowe implements this with verified properties** (termination, money conservation) (§5)
 
@@ -815,7 +815,7 @@ I present a unified theory of institutional efficiency grounded in information t
 
 
 
-**Keywords:** Landauer's principle, negotiation theory, information thermodynamics, institutional design, bisimulation, multi-fungibility, Raiffa architecture, smart contracts, irreversible computation, mock fungibility, pseudo-negotiations, governance theory
+**Keywords:** Landauer's principle, negotiation theory, information thermodynamics, institutional design, bisimulation, multi-fungibility, Raiffa method, smart contracts, irreversible computation, mock fungibility, pseudo-negotiations, governance theory
 
 PDF:
 [The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/landauer-thesis-multi-fungibility.pdf)
@@ -826,9 +826,9 @@ Live GitHub Render (Markdown):
 
 ## Institutional Efficiency
 
-Institutional efficiency is grounded in information thermodynamics. Value systems are information-processing architectures where institutional design determines the energy cost of state transitions. Systems that externalise exploratory computation into low-erasure substrates outperform those that bind exploration directly to high-erasure commitments. This principle can be formalised through Raiffa's negotiation architecture, demonstrate its application to multi-fungibility optimisation, and prove its implementation in Marlowe smart contracts via bisimulation. This framework reveals why certain institutional structures—from market-making to blockchain consensus—converge on similar thermodynamic topologies despite operating in different domains.
+Institutional efficiency is grounded in information thermodynamics. Value systems are information-processing architectures where institutional design determines the energy cost of state transitions. Systems that externalise exploratory computation into low-erasure substrates outperform those that bind exploration directly to high-erasure commitments. This principle can be formalised through Raiffa's negotiation method, demonstrate its application to multi-fungibility optimisation, and prove its implementation in Marlowe smart contracts via bisimulation. This framework reveals why certain institutional structures—from market-making to blockchain consensus—converge on similar thermodynamic topologies despite operating in different domains.
 
-**Howard Raiffa's Architecture**
+**Howard Raiffa's Method**
 [Mock Pseudo-Negotiations With Surrogate Disputants](https://github.com/dr-wojak/econ/blob/main/Mock%20Pseudo-Negotiations%20With%20Surrogate%20Disputants%20-%20Raiffa.pdf)
 
 
