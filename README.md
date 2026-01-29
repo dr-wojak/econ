@@ -99,7 +99,7 @@ See [Ricardian Contracts: A Thermodynamic Analysis](cryptophilology-ricardian-co
 ---
 ## **The Ontology of Surrogate Systems**
 
-### *decision theory, economics, and governance*
+### *Decision theory, Economics, and Governance*
 
 **Core frameworks** - Raiffa, FORM/h, Marlowe, Ricardian contracts
 
@@ -113,7 +113,7 @@ Mock Pseudo-Negotiations with Surrogate Disputants aren't approximations but **r
 
  - Abessive Assessment (Dimension 31): value in the gap itself.
 
-(From FORM/h: [FORM/hodós](https://github.com/dr-wojak/econ/blob/main/FORM_hodo%CC%81s%20v1.37.pdf))
+From discussion of *Hodós* (Tokenship, Actuarial Inflections, etc.) in FORM/h: [FORM/hodós](https://github.com/dr-wojak/econ/blob/main/FORM_hodo%CC%81s%20v1.37.pdf)
 
 See also: [The Ontology of Surrogate Systems](https://github.com/dr-wojak/econ/blob/main/ontology.md)
 
