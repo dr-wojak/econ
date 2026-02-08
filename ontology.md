@@ -69,7 +69,7 @@ These are the limits of surrogate systems. Here, the gap between substrate and p
 
 But note: even zero-fungibility is *thermodynamically defined*. It's not metaphysical uniqueness—it's infinite ΔE_substitution. You can't swap these items because the energy cost of verification/acceptance exceeds any economic value.
 
-### Abessive: Value in the Gap Itself
+### Abessive Nature: Value in the Gap Itself
 
 **Dimension 31 (Abessive)** points to a subtle inversion: sometimes the surrogate's value derives *specifically from not being the original*.
 
