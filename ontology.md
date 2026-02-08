@@ -87,7 +87,7 @@ The surrogate isn't always trying to *collapse* into the original. Sometimes the
 
 **For governance**: Smart contracts don't encode rules—they **are** the rules. This is why "code is law" is so contentious. It's not a metaphor or aspiration—it's an ontological claim about where authority actually resides in a cryptographic substrate.
 
-### The Instructive Dimension (30)
+### The Instructive Dimension
 
 Surrogates are **instructive** (Dimension 30) precisely because they're real. You learn from the surrogate not by studying a map of the territory, but by *operating in an isomorphic space*.
 
