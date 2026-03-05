@@ -4,6 +4,20 @@
 
 This repository of research attempts to build on the classical foundations of institutional economics through the diligent deployment of solution solvers taken from the realm of smart-contracts, O.R., decision science, and AI. It's a study of energy optimisation in social architectures; progress through an existing order that is ludic and reckless.
 
+`collapso-normativo` houses the analytical framework that translates normative institutional collapse — *Dealraitheachas*, the Nullification Loop, Evasocratic Architecture — into the formal language of thermodynamics and information theory.
+
+Its central claim: **institutional dysfunction is not merely a legal or political event. It is a physical one.** The erasure of signal without state transition is subject to the same formal constraints as any other information-processing operation. The governance failures documented in the parent corpus are therefore not anomalies to be remediated by goodwill; they are system-level violations of constraints that apply whether the system acknowledges them or not.
+
+The framework is grounded in five theoretical pillars, each carrying independent formal weight, and the subdirectory is organised accordingly.
+
+---
+
+### Citation Notes
+
+This repository cites: Landauer (1961), Bennett (1982, 1987), Raiffa (1982), Hirschman (1970), Werner (2005, 2012), Grigg (1996), Coase (1937, 1960), Arrow (1963), Schelling (1960), North (1990), Ostrom (1990), and Bateson (1972). Each is cited where the framework translates their work into thermodynamic variables — not as decoration, but as the precise source of the formal move being made.
+
+The governing principle of citation in this repository is the one Bennett applied to Landauer: **the claim must be derivable from the cited source, not merely consistent with it.**
+
 ---
 
 ## Literature Review: The Pre-History of Institutional Thermodynamics
