@@ -83,7 +83,7 @@ The FORM/hodós framework — actuarial inflections, zero-fungibility, abessive 
 
 **Zero-fungibility** names the condition in which the information carried by a submission cannot be substituted by any other input: its value is specific, non-transferable, and destroyed by non-processing. A governance system that returns a zero-fungibility submission without processing does not merely delay value realisation — it eliminates it. The twenty-six kilograms of proprietary research documented in the Irish record are a physical instance of zero-fungibility: the methodologies are specific, the intellectual property is non-recoverable from institutional substitutes, and nineteen years of non-processing has not produced an alternative.
 
-**Abessive assessment** — assessment in the absence of the assessed — is the procedural form of zero-fungibility erasure. The institution performs the grammar of assessment (the committee sits, the clerk responds, the letter issues) while the subject of assessment is structurally absent from the process. See: `form-hodos.md`.
+**Abessive assessment** — assessment in the absence of the assessed — is the procedural form of zero-fungibility erasure. The institution performs the grammar of assessment (the committee sits, the clerk responds, the letter issues) while the subject of assessment is structurally absent from the process. See: [FORM/h](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/FORM_hodo%CC%81s%20v1.37.pdf).
 
 ---
 
