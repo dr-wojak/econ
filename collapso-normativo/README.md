@@ -12,7 +12,7 @@ where *k* is Boltzmann's constant and *T* is the temperature of the surrounding 
 
 **The institutional translation is precise.** A governance system that receives a formal submission — signal, in information-theoretic terms — and produces no state transition is not passively inert. It is performing erasure. The energy cost of that erasure is real; it is simply displaced onto the submitter in the form of time, resources, and foreclosed remedy pathways. The Nullification Loop is, in these terms, a **thermodynamic cost-shifting mechanism**: the system dissipates engagement without transformation, and the bill is paid externally.
 
-The Landauer Constraint paper in this subdirectory formalises this displacement as a measurable variable. See: `landauer-constraint.md`.
+The Landauer Constraint paper in this subdirectory formalises this displacement as a measurable variable. See: [Landauer Constraint](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/landauer-constraint.md).
 
 ---
 
@@ -93,4 +93,4 @@ Ian Grigg's Ricardian Contract (1996) is a document that is simultaneously human
 
 The role of Ricardian Contracts in this framework is prospective: if governance obligations — the duty to assess, to designate a decision-holder, to issue a reasoned determination within a defined period — were expressed as Ricardian contracts, the failure to discharge them would be **computationally detectable** rather than merely politically contestable. The contract's hash chain provides an unforgeable record of obligation, timing, and discharge (or non-discharge). Administrative amnesia — the designed forgetting documented in the Unified Charter — is architecturally impossible in a Ricardian contract environment.
 
-This is not a proposal for the immediate reform of public administration. It is the formal specification of what accountability architecture would look like if the thermodynamic framework's normative implications were taken seriously. See: `ricardian-contracts.md`.
+This is not a proposal for the immediate reform of public administration. It is the formal specification of what accountability architecture would look like if the thermodynamic framework's normative implications were taken seriously. See: [Ricardian Contracts](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/cryptophilology-ricardian-contracts.md).
