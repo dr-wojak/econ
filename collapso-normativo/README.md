@@ -1,3 +1,22 @@
+# Collapso Normativo
+
+## *Normative Collapse — Effondrement normatif — Upadek normatywny — Normativer Kollaps*
+
+### Subdirectory Structure
+
+```
+collapso-normativo/
+├── README.md                          ← this file
+├── landauer-constraint.md             ← Landauer's principle; cost-shifting formalisation
+├── bisimulation-phainocracy.md        ← process-algebraic account of Dealraitheachas
+├── raiffa-value-destruction.md        ← negotiation theory; ZOPA destruction
+├── werner-isomorphism.md              ← productive/speculative computation; QTC parallel
+├── rigueurocracy.md                   ← thermodynamic idling; evaluative acts without output
+├── hirschman-transition-vectors.md    ← Exit/Voice/Loyalty as energy states
+├── form-hodos.md                      ← zero-fungibility; abessive assessment; actuarial inflections
+└── ricardian-contracts.md             ← remedy architecture; computational obligation verification
+```
+
 ## The Five Pillars
 
 ### Landauer's Principle — The Physical Floor
