@@ -94,3 +94,7 @@ Ian Grigg's Ricardian Contract (1996) is a document that is simultaneously human
 The role of Ricardian Contracts in this framework is prospective: if governance obligations — the duty to assess, to designate a decision-holder, to issue a reasoned determination within a defined period — were expressed as Ricardian contracts, the failure to discharge them would be **computationally detectable** rather than merely politically contestable. The contract's hash chain provides an unforgeable record of obligation, timing, and discharge (or non-discharge). Administrative amnesia — the designed forgetting documented in the Unified Charter — is architecturally impossible in a Ricardian contract environment.
 
 This is not a proposal for the immediate reform of public administration. It is the formal specification of what accountability architecture would look like if the thermodynamic framework's normative implications were taken seriously. See: [Ricardian Contracts](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/cryptophilology-ricardian-contracts.md).
+
+---
+
+[← Econ Repository](https://github.com/dr-wojak/econ#economics-research-repository)
