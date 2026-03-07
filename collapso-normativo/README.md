@@ -1,4 +1,4 @@
-# Collapso Normativo
+# Colapso Normativo
 
 ## *Normative Collapse — Effondrement normatif — Upadek normatywny — Normativer Kollaps*
 
