@@ -4,7 +4,7 @@
 
 This repository of research attempts to build on the classical foundations of institutional economics through the diligent deployment of solution solvers taken from the realm of smart-contracts, O.R., decision science, and AI. It's a study of energy optimisation in social architectures; progress through an existing order that is ludic and reckless.
 
-`collapso-normativo` houses the analytical framework that translates normative institutional collapse — *Dealraitheachas*, the Nullification Loop, Evasocratic Architecture — into the formal language of thermodynamics and information theory.
+`colapso-normativo` houses the analytical framework that translates normative institutional collapse — *Dealraitheachas*, the Nullification Loop, Evasocratic Architecture — into the formal language of thermodynamics and information theory.
 
 Its central claim: **institutional dysfunction is not merely a legal or political event. It is a physical one.** The erasure of signal without state transition is subject to the same formal constraints as any other information-processing operation. The governance failures documented in the parent corpus are therefore not anomalies to be remediated by goodwill; they are system-level violations of constraints that apply whether the system acknowledges them or not.
 
@@ -108,7 +108,7 @@ The framework establishes that every institutional action — recording a transa
 
 ## Document
 
-See [Ricardian Contracts: A Thermodynamic Analysis](collapso-normativo/cryptophilology-ricardian-contracts.md) for the complete analysis.
+See [Ricardian Contracts: A Thermodynamic Analysis](colapso-normativo/cryptophilology-ricardian-contracts.md) for the complete analysis.
 
 ---
 ## **The Ontology of Surrogate Systems**
@@ -128,11 +128,11 @@ Mock Pseudo-Negotiations with Surrogate Disputants aren't approximations but **r
  - Abessive Assessment (Dimension 31): value in the gap itself.
 
 From discussion of *Hodós* (Tokenship, Actuarial Inflections, etc.) in FORM/h:  
-[FORM/hodós](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/FORM_hodo%CC%81s%20v1.37.pdf)
+[FORM/hodós](https://github.com/dr-wojak/econ/blob/main/colapso-normativo/FORM_hodo%CC%81s%20v1.37.pdf)
 (Courtesy of the *Mock Fungibility Research Group*, mailto: ethereumgroup@gmail.com)  
 
 See also:  
-[The Ontology of Surrogate Systems](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/ontology.md)
+[The Ontology of Surrogate Systems](https://github.com/dr-wojak/econ/blob/main/colapso-normativo/ontology.md)
 
 ---
 
@@ -824,7 +824,7 @@ ktLn2_scaled = 1  -- Represents ∼10^15 physical kT ln(2)
 
 At scale, the physical and the digital converge; the use of this constraint is the suggested practical framework (until further empirical evidence from the reasoning stack should prove otherwise). 'Store' of value is the mass-friction entanglement coefficient, bitwise to specific matters —no sign of any disappearence an outside, decisional oracle (in consensus-driven load-bearing terms, at least).
 
-![2nd Order Signal](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/second-order-interpretation-of-misgovernance.png)
+![2nd Order Signal](https://github.com/dr-wojak/econ/blob/main/colapso-normativo/second-order-interpretation-of-misgovernance.png)
 
 ## **Landauer Thesis**
 
@@ -835,10 +835,10 @@ I present a unified theory of institutional efficiency grounded in information t
 **Keywords:** Landauer's principle, negotiation theory, information thermodynamics, institutional design, bisimulation, multi-fungibility, Raiffa method, smart contracts, irreversible computation, mock fungibility, pseudo-negotiations, governance theory
 
 PDF:
-[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/landauer-thesis-multi-fungibility.pdf)
+[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/colapso-normativo/landauer-thesis-multi-fungibility.pdf)
 
 Live GitHub Render (Markdown):
-[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/collapso-normativo/landauer-constraint.md)
+[The Landauer Constraint on Institutions](https://github.com/dr-wojak/econ/blob/main/colapso-normativo/landauer-constraint.md)
 
 
 ## Institutional Efficiency
